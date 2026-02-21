@@ -93,10 +93,10 @@ commerce-pulse-data-pipeline
 ### Step 1: Ingest historical data
   - python src/bootstrap.py
 
-## Step 2: Generate live events
+### Step 2: Generate live events
   - python src/live_event_generator.py
 
-## Step 3: Run the Unified Transformation Pipeline
+### Step 3: Run the Unified Transformation Pipeline
   - python src/transformation_pipeline.py
 
 
