@@ -1,0 +1,42 @@
+[
+    {
+        "refund_id": "REF-863bddd6",
+        "order_id": "HIST-ORD-0020",
+        "vendor_id": "vendor_alpha",
+        "amount_refunded": 50.0,
+        "reason": "customer_request",
+        "timestamp": "2023-01-26T00:00:00"
+    },
+    {
+        "refund_id": "REF-11307622",
+        "order_id": "HIST-ORD-0040",
+        "vendor_id": "vendor_alpha",
+        "amount_refunded": 50.0,
+        "reason": "customer_request",
+        "timestamp": "2023-02-15T00:00:00"
+    },
+    {
+        "refund_id": "REF-363898b5",
+        "order_id": "HIST-ORD-0060",
+        "vendor_id": "vendor_alpha",
+        "amount_refunded": 50.0,
+        "reason": "customer_request",
+        "timestamp": "2023-03-07T00:00:00"
+    },
+    {
+        "refund_id": "REF-cc67f565",
+        "order_id": "HIST-ORD-0080",
+        "vendor_id": "vendor_alpha",
+        "amount_refunded": 50.0,
+        "reason": "customer_request",
+        "timestamp": "2023-03-27T00:00:00"
+    },
+    {
+        "refund_id": "REF-23ce44bf",
+        "order_id": "HIST-ORD-0100",
+        "vendor_id": "vendor_alpha",
+        "amount_refunded": 50.0,
+        "reason": "customer_request",
+        "timestamp": "2023-04-16T00:00:00"
+    }
+]
